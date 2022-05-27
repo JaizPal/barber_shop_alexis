@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1066577466848",
+    "project_id": "barbershopalexisburgos",
+    "storage_bucket": "barbershopalexisburgos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066577466848:android:351644156e016bbea04785",
+        "android_client_info": {
+          "package_name": "com.example.barber_shop_alexis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1066577466848-g9msi1vok5qpdkd0kcsdem5qc30ua5kk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBKIgOFMgt5IShbG_QHESTMaCd_5w1QJ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1066577466848-g9msi1vok5qpdkd0kcsdem5qc30ua5kk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
